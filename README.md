@@ -33,6 +33,12 @@ Participant tracking and reward systems
 Join functionality that checks token ownership
 Status indicators (active/upcoming/completed)
 
+  <picture width="150" height="150">
+    <img src="./dapp/public/person7.png" alt="art" width="800"">
+  </picture>
+
+</div>
+
 ## Deployment
 
 **Chiliz Testnet:**
@@ -57,9 +63,9 @@ Status indicators (active/upcoming/completed)
     - user page
     - rewards (?)
   - features:
-    - twitter integration
-    - contract reads
-    - contract writes
+    - twitter integration ✅
+    - contract reads ✅
+    - contract writes ✅
     - polished UI ✅
     - animations ✅
     - graphics ✅
@@ -83,6 +89,4 @@ Status indicators (active/upcoming/completed)
 
 ### Backend
 
-- `cd backend`
-- `npm i`
-- `npm run dev`
+- todo
