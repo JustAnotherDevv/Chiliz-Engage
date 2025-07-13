@@ -33,10 +33,10 @@ Participant tracking and reward systems
 Join functionality that checks token ownership
 Status indicators (active/upcoming/completed)
 
+<div align="center">
   <picture width="150" height="150">
-    <img src="./dapp/public/person7.png" alt="art" width="800"">
+    <img src="./dapp/public/person7.png" alt="art" height="400"">
   </picture>
-
 </div>
 
 ## Deployment
